@@ -1,7 +1,7 @@
 site_name: 大模型应用开发初级考试题库
 site_description: 大模型应用开发初级考试复习资料库 - 模拟试题、预测题、单选题库、多选题库、工程实践题
 site_author: Study Notes
-site_url: https://yourname.github.io/yourrepo/
+site_url: https://mcrhub.github.io/ailearning/
 
 theme:
   name: material
